@@ -1,0 +1,12 @@
+{
+  "name": "athan-app",
+  "productName": "Athan App",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "MIT",
+  "description": ""
+}
